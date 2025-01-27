@@ -10,7 +10,8 @@ I'm Currently studying Web Development at Polytechnic. Aspiring Full Stack Devel
 Learning new frame works and tools that i require at Humber Polytechnic.
 ---
 <img src="ParjadFinal2-19.jpg" width="400"/>
----
+
+
 You can find more information about me in about me section.
 Please look at my education section to learn more about my education
 Look at Employment History for my employment history
