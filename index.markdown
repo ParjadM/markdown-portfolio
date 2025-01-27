@@ -12,9 +12,8 @@ Look at Employment History for my employment history
 and when you want to contact me look at my contact page for my contact information
 
 ## Links to more Info 
-1. [About Me](index)
-2. [Employment History](employment)
-3. [Education](education)
-4. [contact](contact)
+1. [Employment History](employment)
+2. [Education](education)
+3. [contact](contact)
 
 <img src="FullStackLogo.jpg" width="100"/>
