@@ -6,7 +6,7 @@ I have worked in several places
 ## Places i've worked at
 - Winpack Portion Packagin
 - Washlink
-- other small temp jobs
+- Other small temp jobs
 
 ## looking to become a webdeveloper look at my contacts to find my information
 <img src="Web.jpg" width="200"/>
