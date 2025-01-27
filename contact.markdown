@@ -7,7 +7,7 @@ if you like to follow up message me here
 - [Hotmail](minooeip@Hotmail.com)
 - [github](https://www.linkedin.com/in/parjadminooei/)
 
-## Connect
+## Connect!
 <img src="contact.jpg" width="300"/>
 
 ## Links to more Info 
