@@ -15,4 +15,4 @@
 ## This is the Links
 1. [About Me](index)
 2. [Employment History](employment)
-3. [contact](contact)
+3. [Contact](contact)
