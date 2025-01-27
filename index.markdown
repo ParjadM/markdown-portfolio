@@ -6,8 +6,6 @@
 var Introduction = "Hello World";
 ```
 
->[!WARNING]  
->This is about Parjad Minooei
 
 I'm Currently studying Web Development at Polytechnic. Aspiring Full Stack Developer!
 Learning new frame works and tools that i require at Humber Polytechnic.
