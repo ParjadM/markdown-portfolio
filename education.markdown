@@ -12,6 +12,10 @@
 | Seneca Polytechnic    | Computer Programming And Analysis    |
 | York University    | Psychology    |
 
+---
+### Portfolio done in markdown 
+<img src="markdown.jpg" width="150"/>
+
 ## This is the Links
 1. [About Me](index)
 2. [Employment History](employment)
