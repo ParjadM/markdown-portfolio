@@ -7,8 +7,8 @@ if you like to follow up message me here
 - [Hotmail](minooeip@Hotmail.com)
 - [github](https://www.linkedin.com/in/parjadminooei/)
 
->[!WARNING]  
->This Email is not for Spam
+## Connect
+<img src="contact.jpg" width="300"/>
 
 ## Links to more Info 
 1. [Employment History](employment)
