@@ -6,7 +6,7 @@
 var Introduction = "Hello World";
 ```
 ---
-# FULL STACK DEVELOPER
+# **_FULL STACK DEVELOPER_**
 ## I'm Currently studying Web Development at Polytechnic. Aspiring Full Stack Developer!
 
 ### Learning new frame works and tools that i require at Humber Polytechnic.
