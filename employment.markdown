@@ -8,6 +8,8 @@ I have worked in several places
 - Washlink
 - other small temp jobs
 
+## looking to become a webdeveloper look at my contacts to find my information
+<img src="Web.jpg" width="200"/>
 
 
 ## Links to more Info 
