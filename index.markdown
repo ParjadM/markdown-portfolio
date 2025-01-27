@@ -1,6 +1,5 @@
 # Parjad Minooei Portfolio
 
-
 >[!WARNING]  
 >This is about Parjad Minooei
 
@@ -17,3 +16,5 @@ and when you want to contact me look at my contact page for my contact informati
 2. [Employment History](employment)
 3. [Education](education)
 4. [contact](contact)
+
+<img src="FullStackLogo.jpg" width="100"/>
