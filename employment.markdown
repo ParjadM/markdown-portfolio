@@ -13,4 +13,4 @@ I have worked in several places
 ## Links to more Info 
 1. [Index](index)
 2. [Education](education)
-3. [contact](contact)
+3. [Contact](contact)
