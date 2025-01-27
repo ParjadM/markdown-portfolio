@@ -9,7 +9,7 @@ var Introduction = "Hello World";
 # FULL STACK DEVELOPER
 ## I'm Currently studying Web Development at Polytechnic. Aspiring Full Stack Developer!
 
-Learning new frame works and tools that i require at Humber Polytechnic.
+### Learning new frame works and tools that i require at Humber Polytechnic.
 
 
 <img src="ParjadFinal2-19.jpg" width="250"/>
