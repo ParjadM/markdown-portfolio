@@ -20,6 +20,6 @@ and when you want to contact me look at my contact page for my contact informati
 ## Links to more Info 
 1. [Employment History](employment)
 2. [Education](education)
-3. [contact](contact)
+3. [Contact](contact)
 
 <img src="FullStackLogo.jpg" width="100"/>
