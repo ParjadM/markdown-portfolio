@@ -20,6 +20,12 @@ Please look at my education section to learn more about my education
 Look at Employment History for my employment history
 and when you want to contact me look at my contact page for my contact information
 
+---
+```javascript
+var Conclusion = "Happy Coding!";
+```
+---
+
 ## Links to more Info 
 1. [Employment History](employment)
 2. [Education](education)
